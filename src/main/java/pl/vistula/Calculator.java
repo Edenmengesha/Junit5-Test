@@ -10,5 +10,4 @@ public interface Calculator {
 
     public double div(double first, double second);
 
-
 }
