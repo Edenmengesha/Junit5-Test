@@ -18,6 +18,7 @@ public class Simplecalculater implements Calculator {
 
     @Override
     public double div(double first, double second) {
-        return first / second ;
+
+        return first / second;
     }
 }
